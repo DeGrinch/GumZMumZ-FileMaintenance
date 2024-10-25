@@ -1,10 +1,9 @@
-# GumZMumZ-FileMaintenance
-The following content and scripts are part of our GumZMumZ (The Jester 2.0) File Maintenance section. 
-The scripts in this repo will increase and be improved as time permits. These scripts, or the informations within the contents of the scripts and/or files included within will assist in a variety of ways with regards to file maintenance in/on/of a server, dev system, or general PC environment.
+### GumZMumZ (The Jester 2.0) File Maintenance
 
-These scripts are not to be rewritten to be used in any form of malacious and destructive manners. 
+- **Purpose of Scripts**: The scripts in this project are designed to help with file management on servers, development systems, or general computers. They will improve and expand over time.
 
-Any code I manage to put together with or without the assistance of any other devs, or other Ai, are not developed for ill-use and harmful or deceptive outcome. 
-White, Blue, Red, once you put on that black hat you're just another hassle behind the curtain impeding the positive evolution of humanity and mankind... off with  your head!! lol  
+- **Usage Policy**: These scripts should **not** be modified for any harmful or malicious purposes. They are intended for constructive use only.
 
-*Grins*
+- **Development Ethos**: Any code created, whether by you, other developers, or AI, is meant for positive outcomes. The goal is to avoid any use that could be considered harmful or deceptive.
+
+- **A Warning Against Malicious Use**: Using technology for bad purposes (referred to as "putting on a black hat") is seen as a setback to the positive progress of humanity.
